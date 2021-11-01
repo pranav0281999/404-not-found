@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/pranav0281999/gatsby-404-not-found">
+    <a href="https://github.com/pranav0281999/404-not-found">
       Solution
     </a>
     <span> | </span>
@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/pranav0281999/gatsby-404-not-found/master/demo/desktopScreenshot.png)
+![screenshot](https://raw.githubusercontent.com/pranav0281999/404-not-found/master/demo/desktopScreenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
