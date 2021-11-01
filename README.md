@@ -37,8 +37,6 @@
 
 ![screenshot](https://raw.githubusercontent.com/pranav0281999/404-not-found/master/demo/desktopScreenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - I tried this project with Gatsby so I learned that, and I improved by knowledge in CSS.
 - My wisdom is, have some practice with CSS media queries and flex-box.
 
